@@ -1,4 +1,6 @@
-
+-----
+redirect_from: "_config.yml"
+-----
 <?php include("includes/a_config.php");?>
 
 
