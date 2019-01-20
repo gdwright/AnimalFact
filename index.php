@@ -1,4 +1,6 @@
-
+-----
+redirect_from: "Readme.md"
+-----
 
 <?php include("includes/a_config.php");?>
 
