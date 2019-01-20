@@ -4,6 +4,12 @@ redirect_from: "README.md"
 
 <?php include("includes/a_config.php");?>
 
+<html>
+  <head>
+    <META http-equiv="refresh" content="0;URL=/AnimalFact/index.PHP">
+  </head>
+</html>
+
 
 
 <style type="text/css">
