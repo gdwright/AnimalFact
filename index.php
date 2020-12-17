@@ -10,7 +10,7 @@
 
 <html>
   <head>
-    <META http-equiv="refresh" content="0;URL=/AnimalFact/index.PHP">
+    <META http-equiv="refresh" content="0;URL=index.php">
   </head>
 </html>
 
