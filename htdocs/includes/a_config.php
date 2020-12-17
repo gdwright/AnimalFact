@@ -63,4 +63,10 @@
         array('The name Lemur is actually Latin for “spirits of the night”.', 'The lemur is a native animal of Madagascar.'),
         array('There are around 300 species of octopus and they are found in every ocean.', 'Octopuses form opinions about individual people. One routinely squirted water down the back of a keeper it seemed to dislike')
     ); // array of fact arrays
+
+    $i = rand(0, count($bgr)-1); // generate random number size of the array
+
+    $k = rand(0, count($fct[$i])-1); // generate placeholder rand for fact
+    $selectedBgr = "$bgr[$i]"; // set variable equal to which random filename was chosen
+    $selectedFct = $fct[$i][$k]; //$fct[$i][$k]
 ?>

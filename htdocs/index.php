@@ -1,18 +1,5 @@
 
-
-<?php include("includes/a_config.php");
-    $i = rand(0, count($bgr)-1); // generate random number size of the array
-
-    $k = rand(0, count($fct[$i])-1); // generate placeholder rand for fact
-    $selectedBgr = "$bgr[$i]"; // set variable equal to which random filename was chosen
-    $selectedFct = $fct[$i][$k]; //$fct[$i][$k]
-?>
-
-<html>
-  <head>
-    <META http-equiv="refresh" content="0;URL=index.php">
-  </head>
-</html>
+<?php include("includes/a_config.php");?>
 
 
 
